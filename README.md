@@ -44,3 +44,24 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 - Data provided by [NASA GISS](https://data.giss.nasa.gov/gistemp/).
+
+## BibTeX
+```
+@software{Eom2025Software,
+  author = {Sungjun Eom},
+  title = {Global Land-Ocean Temperature Index Analysis and Prediction},
+  year = {2025},
+  url = {https://github.com/SungjunEom/global-temp-analysis-prediction},
+  orcid = {0009-0001-8013-2454},
+  license = {MIT},
+  note = {If you use this repository, please cite the software and/or the associated article.}
+}
+
+@article{Eom2025Article,
+  author = {Sungjun Eom},
+  title = {Global Land-Ocean Temperature Index Analysis and Prediction},
+  year = {2025},
+  url = {https://github.com/SungjunEom/global-temp-analysis-prediction},
+  note = {Paper version.}
+}
+```
