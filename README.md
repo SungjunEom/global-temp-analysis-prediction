@@ -64,4 +64,12 @@ This project is licensed under the MIT License.
   url = {https://github.com/SungjunEom/global-temp-analysis-prediction},
   note = {Paper version.}
 }
+
+@misc{Eom2025Github,
+  author       = {Sungjun Eom},
+  title        = {Global Land-Ocean Temperature Index Analysis and Prediction},
+  url          = {https://github.com/SungjunEom/global-temp-analysis-prediction},
+  note         = {Accessed: 2025-01-14},
+  year         = {2025}
+}
 ```
